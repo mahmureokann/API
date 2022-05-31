@@ -1,0 +1,9 @@
+Boþ proje açýldý
+MVC açar gibi ASP.NET açýlýp MVC yerine API seçildi.
+API projesinde view bulunmaz çünkü görsel bir iþimiz yok.
+Home isminde controller oluþturuldu.Controller arasýnda WebAPI kýsmýný seçtik.
+Eðer apide yazdýklarýmýzý görmek istiyorsak api/controller/id þeklinde yazmamýz gerekiyor.
+API'de UI bulunmadýðý için Postman adýndaki bir uygulama ile birlikte kullanýyoruz.
+Product modeli ve bu modelin controlleriný açtýk.(Controllerin hepsi WebApý seçilerek açýlacak)
+Contollerda üç adet product ekledik. Read only ekledik (get)
+IEnumerable kendi içerisinde foreach barýndýran bir interfacetir.List tipi yerine bu tipi kullandýk
