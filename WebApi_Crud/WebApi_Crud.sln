@@ -3,12 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi_Crud", "WebApi_Crud\WebApi_Crud.csproj", "{579E7534-4482-43CD-A7CF-37A5A1270494}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api_Crud", "Api_Crud\Api_Crud.csproj", "{14742A2A-0DA9-4B00-BF09-0DFF409283FB}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{67DFDEC1-2230-4F95-9134-004074BCD6AE}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{03C90042-89AB-4DBC-8858-85B56938D206}"
 	ProjectSection(SolutionItems) = preProject
 		Islemler.txt = Islemler.txt
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi_Clientt", "WebApi_Clientt\WebApi_Clientt.csproj", "{427B707B-EE66-4A68-B235-BBEAE5ADCF7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,15 +18,19 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{579E7534-4482-43CD-A7CF-37A5A1270494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{579E7534-4482-43CD-A7CF-37A5A1270494}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{579E7534-4482-43CD-A7CF-37A5A1270494}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{579E7534-4482-43CD-A7CF-37A5A1270494}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14742A2A-0DA9-4B00-BF09-0DFF409283FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14742A2A-0DA9-4B00-BF09-0DFF409283FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14742A2A-0DA9-4B00-BF09-0DFF409283FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14742A2A-0DA9-4B00-BF09-0DFF409283FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{427B707B-EE66-4A68-B235-BBEAE5ADCF7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{427B707B-EE66-4A68-B235-BBEAE5ADCF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{427B707B-EE66-4A68-B235-BBEAE5ADCF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{427B707B-EE66-4A68-B235-BBEAE5ADCF7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {01CB9530-7DC2-4D36-9C46-73FE023EBD1F}
+		SolutionGuid = {B3CC4E53-4BCA-4344-96A0-D04666C64299}
 	EndGlobalSection
 EndGlobal

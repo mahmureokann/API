@@ -1,0 +1,142 @@
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\WebApiNorthwindAuth.dll.config
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\WebApiNorthwindAuth.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\WebApiNorthwindAuth.pdb
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\csc.exe
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\csc.exe.config
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\csc.rsp
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\csi.exe
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\csi.exe.config
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\csi.rsp
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.AppContext.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Console.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.IO.Compression.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Net.Http.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Net.Sockets.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.ValueTuple.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Xml.XPath.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\vbc.exe
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\vbc.exe.config
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\vbc.rsp
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\VBCSCompiler.exe
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\EntityFramework.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\EntityFramework.SqlServer.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\Newtonsoft.Json.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\System.Net.Http.Formatting.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\System.Web.Http.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\System.Web.Http.WebHost.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\EntityFramework.xml
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\EntityFramework.SqlServer.xml
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\Newtonsoft.Json.xml
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\System.Net.Http.Formatting.xml
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\System.Web.Http.xml
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\System.Web.Http.WebHost.xml
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\obj\Debug\WebApiNorthwindAuth.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\obj\Debug\WebApiNorthwindAuth.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\obj\Debug\WebApiNorthwindAuth.csproj.CopyComplete
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\obj\Debug\WebApiNorthwindAuth.dll
+C:\Users\FatihGunalp\Desktop\YZL3156\API\06.06\WebApiNorthwindAuth\WebApiNorthwindAuth\obj\Debug\WebApiNorthwindAuth.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\WebApiNorthwindAuth.dll.config
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\WebApiNorthwindAuth.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\WebApiNorthwindAuth.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\csc.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\csc.exe.config
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\csc.rsp
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\csi.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\csi.exe.config
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\csi.rsp
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.AppContext.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Console.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.IO.Compression.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Net.Http.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Net.Sockets.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.ValueTuple.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\vbc.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\vbc.exe.config
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\vbc.rsp
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\VBCSCompiler.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\EntityFramework.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\EntityFramework.SqlServer.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\Newtonsoft.Json.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\System.Net.Http.Formatting.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\System.Web.Http.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\System.Web.Http.WebHost.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\EntityFramework.xml
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\EntityFramework.SqlServer.xml
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\Newtonsoft.Json.xml
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\System.Net.Http.Formatting.xml
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\System.Web.Http.xml
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\System.Web.Http.WebHost.xml
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\obj\Debug\WebApiNorthwindAuth.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\obj\Debug\WebApiNorthwindAuth.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\obj\Debug\WebApiNorthwindAuth.csproj.CopyComplete
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\obj\Debug\WebApiNorthwindAuth.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\API\WebApiNorthwindAuth\WebApiNorthwindAuth\obj\Debug\WebApiNorthwindAuth.pdb

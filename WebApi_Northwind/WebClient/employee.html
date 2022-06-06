@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Employee</title>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+
+</head>
+<body>
+
+    <section class="container">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Firstname</th>
+                    <th>Lastname</th>
+                    <th>Title</th>
+                </tr>
+            </thead>
+            <tbody id="tblEmployee">
+              
+            </tbody>
+        </table>
+    </section>
+
+
+
+
+    <script src="Scripts/jquery-3.6.0.js"></script>
+    <script src="Scripts/bootstrap.js"></script>
+    <script>
+        /*Eğer dışarıda bulunan bir api projesine istekte bulunduğunuzda 'Access-Control-Allow-Origin' hatası alırsanız api projesinin olduğu yere Nuget Package Manager'dan Microsoft.AspNet.Cors isimli kütüphaneyi kurarak izinleri vermeniz gerekmektedir.*/
+
+        $(document).ready(function () {
+            $.ajax({
+                method: 'Get',
+                url: 'https://localhost:44358/api/employee'
+
+            }).done(function (response) {
+                for (var i = 0; i < response.length; i++) {
+                    /*var tr = "<tr><td>" + response[i].Id + "</td><td>" + response[i].Firstname + "</td><td>" + response[i].Lastname + "</td><td>" + response[i].Title + "</td></tr>";*/
+
+                    var tr = `
+                        <tr>
+                            <td>${response[i].Id}</td>
+                            <td>${response[i].Firstname}</td>
+                            <td>${response[i].Lastname}</td>
+                            <td>${response[i].Title}</td>
+                        </tr>
+                            `
+
+                    $("#tblEmployee").append(tr);
+
+                }
+            })
+        })
+    </script>
+</body>
+</html>

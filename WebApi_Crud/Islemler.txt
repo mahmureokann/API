@@ -1,1 +1,5 @@
-Apý controller oluþturduk.Adý home
+Api projesi oluþtur
+Northwindi modele baðla
+Data Transfer Object (DTO) yalnýzca istediðimiz tablolarý görüntülememizi saðlar.Employee crud iþlemleri gerçekleþtireceðimiz için, modelin içerisine EmployeeDTO açýyoruz.
+EmployeeController açýyoruz ve Northwindden yansýma alýyoruz. Controller açarken WebApi seçimi yapýyoruz.
+WebApi_Client aç ve iki projeyide baþlangýç projesi olarak ayarla
